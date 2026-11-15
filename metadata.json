@@ -1,0 +1,6 @@
+{
+  "name": "Caffido — Specialty Coffee & Bistro",
+  "description": "Aesthetic specialty coffee shop in Block 15, Gulistan-e-Johar, Karachi. Open daily until 2:00 AM for dine-in, takeout, and delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
